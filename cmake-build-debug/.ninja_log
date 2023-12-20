@@ -1,0 +1,6 @@
+# ninja log v5
+2	530	7235845874906756	CMakeFiles/nmngn.dir/main.cpp.obj	562ea5d76dd55db9
+530	691	7235845876460474	nmngn.exe	1c42864069ebd113
+0	644	7236917918999691	CMakeFiles/nmngn.dir/seq.cpp.obj	3be603b56b183a0f
+33	647	7236917919040444	CMakeFiles/nmngn.dir/par.cpp.obj	132c4c32c7de5e86
+0	212	7248152359976996	build.ninja	ea36f0c8e4902d28

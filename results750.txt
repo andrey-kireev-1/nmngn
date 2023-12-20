@@ -1,0 +1,5 @@
+Matrix size: 750, Number threads: 1, Search Time (mcs): 6.91224e+06
+Matrix size: 750, Number threads: 2, Search Time (mcs): 3.09779e+06
+Matrix size: 750, Number threads: 3, Search Time (mcs): 2.06138e+06
+Matrix size: 750, Number threads: 4, Search Time (mcs): 1.5365e+06
+Matrix size: 750, Number threads: 5, Search Time (mcs): 1.92711e+06
