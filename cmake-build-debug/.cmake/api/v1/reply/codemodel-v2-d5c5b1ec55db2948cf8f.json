@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.26"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "nmngn::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-nmngn-Debug-c1da6b23be03c42853d8.json",
+					"jsonFile" : "target-nmngn-Debug-80558165a2a266503c6d.json",
 					"name" : "nmngn",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/nmngn/cmake-build-debug",
-		"source" : "D:/nmngn"
+		"build" : "/home/andrey/nmngn/cmake-build-debug",
+		"source" : "/home/andrey/nmngn"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }
